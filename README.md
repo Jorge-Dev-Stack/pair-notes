@@ -5,3 +5,6 @@ Favourite place: Kisii.
 Favorite place: Nanyuki
 Testing Git commit template
 Favourite hobby: Writing code,
+Favourite hobby: running
+
+
