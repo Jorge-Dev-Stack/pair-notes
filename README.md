@@ -1,3 +1,3 @@
 # pair-notes
 My notes.
-Favourite food: Ugali.
+Favourite food: Mayai.
