@@ -7,4 +7,4 @@ Testing Git commit template
 Favourite hobby: Eating
 Favourite hobby: running
 Rule set 
-
+Favourite subject:Maths
