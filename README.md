@@ -3,4 +3,8 @@ My notes.
 Favourite food: Biryani
 Favourite place: Kisii.
 Favorite place: Nanyuki
+Testing Git commit template
+Favourite hobby: Eating
 Favourite hobby: running
+
+
