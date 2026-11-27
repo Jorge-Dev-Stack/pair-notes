@@ -6,5 +6,5 @@ Favorite place: Nanyuki
 Testing Git commit template
 Favourite hobby: Eating
 Favourite hobby: running
-
+Rule set 
 
